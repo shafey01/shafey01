@@ -82,8 +82,15 @@
       width="100"
       height="100"
     />
-  </a>
-
+  </a>  
+     <a href="https://www.ansible.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg"
+      alt="ansible"
+      width="100"
+      height="100"
+    />
+  </a> 
   <a href="https://www.jenkins.io" target="_blank" rel="noreferrer">
     <img
       src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg"

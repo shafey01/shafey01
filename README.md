@@ -2,7 +2,7 @@
 <h3 align="center">DevOps Engineer</h3>
 
 [![Linkedin:Shafey](https://img.shields.io/badge/-shafey-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ahmed-shafey-/)](https://www.linkedin.com/in/ahmed-shafey-/)
-[![Instagram:Shafey](https://img.shields.io/badge/-shafey-red?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/shafeski/)](https://www.instagram.com/shafeski/)
+
 - 🌱 Interested in **DevOps, Cloud, Open Source Technologies, Automotion.**
 <h2> CI | CD | CL</h2>
 

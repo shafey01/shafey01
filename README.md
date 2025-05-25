@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ahmed Shafey</h1>
 <h3 align="center">DevOps Engineer</h3>
 
-[![Linkedin:Shafey](https://img.shields.io/badge/-shafey-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ahmed-shafey-/)](https://www.linkedin.com/in/ahmed-shafey-/)
+[![Linkedin:Shafey](https://img.shields.io/badge/-Shafey-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ahmed-shafey-/)](https://www.linkedin.com/in/ahmed-shafey-/)
 
 - 🌱 Interested in **DevOps, Cloud, Open Source Technologies, Automotion.**
 <h2> CI | CD | CL</h2>
@@ -248,26 +248,4 @@
   </a>
 </p>
 
-<p>
-  <img
-    align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=shafey01&show_icons=true&locale=en&layout=compact"
-    alt="shafey01"
-  />
-</p>
 
-<p>
-  &nbsp;<img
-    align="center"
-    src="https://github-readme-stats.vercel.app/api?username=shafey01&show_icons=true&locale=en"
-    alt="shafey01"
-  />
-</p>
-
-<p>
-  <img
-    align="center"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=shafey01&"
-    alt="shafey01"
-  />
-</p>

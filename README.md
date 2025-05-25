@@ -58,7 +58,16 @@
       height="100"
     />
   </a>
-  <a href="https://cloud.google.com" target="_blank" rel="noreferrer">
+ 
+  
+  <a href="https://go.dev/" target="_blank" rel="noreferrer">
+    <img
+      src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg"
+      alt="go"
+      width="100"
+      height="100"
+    />
+  </a>  <a href="https://cloud.google.com" target="_blank" rel="noreferrer">
     <img
       src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg"
       alt="gcp"
